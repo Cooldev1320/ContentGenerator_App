@@ -1,6 +1,7 @@
 # Content Generator App
 
 A powerful React Native application for creating and managing visual content projects. This app provides a comprehensive canvas-based editor with templates, project management, and export capabilities.
+<video src="https://github.com/user-attachments/assets/282e2def-58b0-46bc-b2f3-92a758b048c8" autoplay loop muted playsinline width="600"></video>
 
 ## Features
 
